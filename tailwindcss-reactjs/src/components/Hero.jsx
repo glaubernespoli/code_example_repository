@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 const Hero = () => {
   return (
-    <div className="flex flex-col items-center justify-center">
+    <div className="flex flex-col items-center justify-center h-screen">
       <h1 className="text-3xl font-black sm:text-5xl mb-14 md:text-7xl lg:text-9xl">
         Hola Mariana!
       </h1>

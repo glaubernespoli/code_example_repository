@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.menu-card {
+  @apply flex flex-col items-center justify-center h-screen py-20 my-20 font-mono;
+}
+
+.center-content {
+  @apply flex flex-col items-center justify-center;
+}
